@@ -1,0 +1,23 @@
+{
+  "name": "github-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/spotify": "^1.2.1",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.7.0",
+    "distube": "^3.3.4",
+    "ffmpeg-static": "^4.4.1",
+    "glob": "^8.0.3",
+    "path": "^0.12.7",
+    "util": "^0.12.4",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  }
+}
