@@ -50,3 +50,8 @@ Choisissez si vous voulez que les slash soit en global server ou en server priv√
 > npm install
 > ```
 
+## Aide ?
+
+Si tout probl√®me envers le code ou autre, veuillez me contacter sur discord (Adrix_#9999)
+
+### By: Adrix_#9999
