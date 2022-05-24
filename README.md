@@ -35,3 +35,11 @@ Choisissez si vous voulez que les slash soit en global server ou en server privÃ
          });
     })
 ```
+
+# Run
+
+> Pour lancer le bot:
+> ```bash
+> node .
+> ```
+> 
