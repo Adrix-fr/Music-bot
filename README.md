@@ -40,6 +40,6 @@ Choisissez si vous voulez que les slash soit en global server ou en server privÃ
 
 > Pour lancer le bot:
 > ```bash
-> node .
+> node index
 > ```
 > 
