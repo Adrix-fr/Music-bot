@@ -42,4 +42,11 @@ Choisissez si vous voulez que les slash soit en global server ou en server privÃ
 > ```bash
 > node index
 > ```
-> 
+
+# Installation
+
+> Pour installer tous les packages, il suffit d'utiliser :
+> ```bash
+> npm install
+> ```
+
